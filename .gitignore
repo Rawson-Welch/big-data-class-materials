@@ -79,3 +79,6 @@ recordings/
 *.blg
 *.fls
 /lectures/06-web-css/trump_lies.csv
+*.csv
+*.dta
+*.Rdata
